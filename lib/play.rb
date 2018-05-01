@@ -37,6 +37,6 @@ end
 
 # Define your play method below
 def play
-  loop turn do
+  loop do
     9.times
 end
