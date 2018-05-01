@@ -39,4 +39,5 @@ end
 def play(board)
  
   for i in 0..9
+    turn
 end
