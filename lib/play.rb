@@ -37,6 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-  num =9
+  num = 9
   while(num)
 end
